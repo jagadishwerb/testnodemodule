@@ -1,7 +1,7 @@
 {
-  "name": "testnodemodule",
+  "name": "wltestnodemodule",
   "version": "1.0.0",
-  "description": "testnodemodule",
+  "description": "wltestnodemodule",
   "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
